@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700480979872",
+    "project_id": "zadapp-8a43d",
+    "storage_bucket": "zadapp-8a43d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700480979872:android:12605efab5e14aa4579ac5",
+        "android_client_info": {
+          "package_name": "com.jadaara.zad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPHTS6B3YVLV9El7aT_W0wUxarDal0VYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

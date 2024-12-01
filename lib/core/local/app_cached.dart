@@ -1,0 +1,29 @@
+class AppCached{
+  static const String theme = "theme";
+  static const String darkTheme = "darkTheme";
+  static const String lightTheme = "lightTheme";
+  static const String location = "location";
+  static const String token = "token";
+  static const String audioPlaying = "audioPlaying";
+  static const String currentLat = "currentLat";
+  static const String currentLng = "currentLng";
+  static const String fajrEnabled = "fajrEnabled";
+  static const String duhrEnabled = "duhrEnabled";
+  static const String asrEnabled = "asrEnabled";
+  static const String maghrebEnabled = "maghrebEnabled";
+  static const String ishaEnabled = "ishaEnabled";
+  static const String autoStart = "autoStart";
+  static const String enabledLocation = "enabledLocation";
+  static const String soraName = "soraName";
+  static const String soraNum = "soraNum";
+  static const String enableShowcase = "enableShowcase";
+  static const String soraDetailsShowcase = "soraDetailsShowcase";
+  static const String playStore = "playStore";
+  static const String appleStore = "appleStore";
+  static const String website = "website";
+  static const String whatsapp = "whatsapp";
+  static const String playListIndex = "playListIndex";
+  static const String songIndex = "songIndex";
+  static const String nameOfPlayList = "nameOfPlayList";
+  static const String aOrq = "aOrq";
+}
